@@ -1,0 +1,54 @@
+# Core Streamlit and ML dependencies
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+requests>=2.28.0
+plotly>=5.15.0
+
+# Financial data and analysis
+yfinance>=0.2.25
+ta>=0.10.2
+alpha-vantage>=2.3.1
+
+# Machine learning and AI
+scikit-learn>=1.3.0
+nltk>=3.8.1
+transformers>=4.37.0
+torch>=2.0.0
+
+# News and sentiment analysis
+newsapi-python>=0.2.6
+
+# System monitoring and scheduling
+psutil>=5.9.0
+schedule>=1.2.0
+
+# Audio/Voice processing
+streamlit-webrtc>=0.45.0
+SpeechRecognition>=3.10.0
+
+# Image processing
+Pillow>=9.5.0
+
+# Additional Streamlit components
+streamlit-option-menu>=0.3.6
+
+# Optional: For better audio support
+pydub>=0.25.1
+
+# For webcam/video processing (if needed)
+opencv-python>=4.8.0
+
+# Additional utilities
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# API clients
+alpha-vantage>=2.3.1
+
+# Financial analysis libraries
+quantlib>=1.32 # Optional: for advanced financial calculations
+mplfinance>=0.12.10b0 # Optional: for candlestick charts
+
+# Performance optimization
+numba>=0.58.0 # Optional: for faster numerical computations
